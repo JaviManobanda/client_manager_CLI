@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='pv',
-    version='0.1',
+    version='1.0.0',
     py_modules=['pv'],
     install_requires=[
         'Click',
